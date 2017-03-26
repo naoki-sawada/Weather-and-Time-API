@@ -1,0 +1,20 @@
+{
+  "name": "Weather-and-Time-API",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "config": "^1.25.1",
+    "express": "^4.15.2",
+    "moment-timezone": "^0.5.11",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Naoki Sawada",
+  "license": "MIT"
+}
