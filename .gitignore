@@ -1,5 +1,6 @@
 ### Project Settings ###
-config/development.js
+config/*.js
+!config/default.js
 
 # Created by https://www.gitignore.io/api/macos,node
 
